@@ -5,7 +5,9 @@
 1.最好能够熟练使用vim各种操作，再使用插件
 ##常见问题排查
 1.确认安装步骤
+
 2.二分法
+
 3.google
 ##安装步骤
 1.clone到本地
@@ -15,6 +17,8 @@ git clone https://github.com/MSmmer/vim_plugin.git
 ```
 
 2.安装依赖包
+```
+```
 
 3.安装
 ```
