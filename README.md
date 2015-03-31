@@ -22,10 +22,10 @@ git clone https://github.com/MSmmer/vim_plugin.git
 
 3.安装
 ```
-加入当前目录
+3.1加入当前目录
 cd vim_plugin
-执行安装
-* 会自动下载插件，下载时间可能会比较长，下载速度取决于网速
+3.2执行安装
+*会自动下载插件，下载时间可能会比较长，下载速度取决于网速
 *YouCompleteMe插件大一些下载时间会比较久一些
 sh -x install.sh
 ```
